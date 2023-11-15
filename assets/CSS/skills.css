@@ -1,0 +1,34 @@
+/* Skills section */
+.skills {
+  max-width: 20rem;
+  margin-top: 1rem;
+  text-align: center;
+  scroll-margin-top: 6rem;
+}
+.skill-header {
+  color: #CCC9DC;
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+.skill-wrapper img {
+  padding: 1.25rem;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+
+.icon {
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+}
+
+.icon-card {
+  background-color: #CCC9DC;
+  border-radius: 11px;
+  box-shadow: 0 4px 7px #CCC9DC;
+  padding: 13px;
+  margin: 6px;
+}
+
+/* Skills section ends */

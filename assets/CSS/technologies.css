@@ -1,0 +1,44 @@
+.technologies-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 2px;
+}
+
+.technologies-details {
+  font-family: "Times New Roman", Times, serif;
+  /* margin-bottom: 2px; */
+  font-size: 10px;
+}
+.technologies-title {
+  font-size: 12px;
+  font: 800;
+  color: #CCC9DC;
+  text-shadow: white 2rem;
+  margin-top: 2px;
+}
+.technologies-card {
+  /* border-radius: 3px;
+  box-shadow: 1px 2px 3px #ff6b35; */
+  margin: 1rem;
+  padding: 3px;
+}
+
+.technologies-pic-1 {
+  height: 1.8rem;
+  width: 1.8rem;
+}
+.technologies-pic-2 {
+  height: 1.4rem;
+  width: 1.4rem;
+  margin-right: 2px;
+  margin-bottom: 1px;
+  margin-top: 5px;
+}
+.technologies-pic-3 {
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-bottom: 4px;
+}

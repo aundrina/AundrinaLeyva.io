@@ -1,0 +1,57 @@
+/* Navbar */
+nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 3.5rem;
+  background-color: #CCC9DC;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+nav h1 {
+  color: white;
+  text-shadow: 2px 4px 4px 0.5px rgba(46, 91, 173, 0.6);
+}
+
+nav a {
+  color: #fff;
+  font-weight: var(--bolder-font);
+  transition: var(--transition);
+}
+nav a:hover {
+  color: #CCC9DC;
+  border: 1px dotted #CCC9DC ;
+  border-radius: 1rem;
+  padding: 5px;
+  margin-bottom: 0.5rem;
+  background-color:#CCC9DC;
+}
+
+nav ul {
+  display: flex;
+  gap: 1rem;
+  border-radius: 0.5rem;
+  padding: 10px;
+  align-items: center;
+}
+
+nav ul li {
+  border-radius: 12px;
+  width: fit-content;
+  height: fit-content;
+  /* box-shadow: 0 3px 10px #ff6b35; */
+  scroll-margin-top: 6rem;
+}
+
+.burger-menu {
+  color: #CCC9DC;
+  font-size: 2rem;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  display: none;
+}
+/* Navbar ends */
