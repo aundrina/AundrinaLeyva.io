@@ -5,7 +5,7 @@
 }
 h2 {
   text-align: center;
-  margin-bottom: 10px;
+  
 }
 
 .contact-form-container {
@@ -29,7 +29,7 @@ h2 {
 .contact-form-container .input-field {
   width: 100%;
   padding-top: 10px;
-  padding-bottom: 10px;
+  /* padding-bottom: 10px; */
   border-radius: 5px;
   border: 3px solid #CCC9DC;
   font-size: 0.875rem;

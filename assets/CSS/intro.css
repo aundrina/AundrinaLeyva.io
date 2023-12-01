@@ -1,6 +1,12 @@
-/* .intro-title {
-    margin: auto;
-} */
-.intro h2 {
-    margin-top: 0%;
+.intro-title {
+  margin-top: 0;
+  margin-bottom: 0;
 }
+h2.intro-title {
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+/* .intro.intro {
+margin
+} */
