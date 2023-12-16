@@ -53,3 +53,8 @@ body {
 } */
 /* CSS Resets end */
 }
+
+body {
+  background-color: black;
+  margin: auto;
+}

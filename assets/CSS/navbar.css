@@ -11,16 +11,18 @@ nav {
   background-color: #ffd60a;
   box-shadow: 0.5px 0.5px 8px 0.5px #ffd60a;
 }
-nav h1 {
+/* nav h1 {
   color: white;
   text-shadow: 2px 4px 4px 0.5px rgba(46, 91, 173, 0.6);
-}
+} */
 
-/* nav a {
-  color: #fff;
+nav a { 
+  color: black; 
   font-weight: var(--bolder-font);
   transition: var(--transition);
-} */
+  text-decoration: none;
+ 
+} 
 nav a:hover {
   color: #ffd60a;
   border: 1px dotted #ffd60a;
@@ -42,8 +44,8 @@ nav ul li {
   border-radius: 12px;
   width: fit-content;
   height: fit-content;
-  /* box-shadow: 0 3px 10px #ff6b35; */
   scroll-margin-top: 6rem;
+  list-style-type: none;
 }
 
 .burger-menu {

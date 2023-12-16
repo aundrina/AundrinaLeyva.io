@@ -6,17 +6,17 @@
   margin-bottom: auto;
   border-radius: 30px;
   color: white;
-  background-color: #CCC9DC;
-  box-shadow: 0 2px 9px #CCC9DC;
+  background-color: #ffd60a;
+  box-shadow: 0 2px 9px #ffd60a;
   border: 3px double #CCC9DC;
   cursor: pointer;
 }
 .resume-button:hover {
   margin-top: 5px;
-  color: white;
+  color: #ffd60a;
   /* display:block; */
   /* padding: 20px 30px; */
-  background-color: #CCC9DC;
-  box-shadow: 0 1px 8px #CCC9DC;
-  border: 3px solid white;
+  background-color: black;
+  box-shadow: 0 1px 8px #ffd60a;
+  border: 3px solid #ffd60a;
 }

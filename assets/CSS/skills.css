@@ -21,12 +21,13 @@
   align-items: center;
   width: 4rem;
   height: 4rem;
+  color: #ffd60a;
 }
 
 .icon-card {
-  background-color: #CCC9DC;
+  background-color: black;
   border-radius: 11px;
-  box-shadow: 0 4px 7px #CCC9DC;
+  box-shadow: 0 1px 7px #ffd60a;
   padding: 13px;
   margin: 6px;
 }
