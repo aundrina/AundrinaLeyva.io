@@ -4,7 +4,7 @@
 
 :root { */
 :root {
-  font-family: "Poiret One", cursive;
+  /* font-family: "Poiret One", cursive;
   --normal-font: normal 400;
   --bold-font: bold 700;
   --bolder-font: bolder 900;
@@ -17,7 +17,7 @@
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
   --transition: 0.3s;
-}
+} */
 /* Variables end */
 
 html {
@@ -52,3 +52,4 @@ body {
   margin: auto;
 } */
 /* CSS Resets end */
+}

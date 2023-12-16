@@ -8,12 +8,12 @@
   font-size: 2rem;
   text-align: center;
   font-weight: bold;
-  color: #CCC9DC;
+  color: #ffd60a;
   /* margin-bottom: 10px; */
 }
 .aboutMe-details {
-  border: 17px transparent #ff6b35;
-  box-shadow: 0.5px 0.5px 8px 0.5px #CCC9DC;
+  border: 17px transparent #ffd60a;
+  ;
   border-radius: 7px;
   font-family: "Times New Roman", Times, serif;
   font-size: 17px;
@@ -27,6 +27,10 @@
   /* scroll-margin-top: 1rem; */
 }
 .aboutMe-card {
+  border-radius: 11px;
   padding: 14px;
+  background-color: #ffd60a;
+  box-shadow: 0.5px 0.5px 8px 0.5px #ffd60a
+  
   /* scroll-margin-top: 7rem; */
 }
