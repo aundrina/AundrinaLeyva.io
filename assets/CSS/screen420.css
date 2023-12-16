@@ -3,7 +3,11 @@
     height: 17rem;
     width: 16rem;
   }
-
+  nav ul li {
+    margin: 3px;
+    /* color: #ffd60a;
+    background-color: black; */
+  }
   .project-container {
     width: 17.875rem;
   }
