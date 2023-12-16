@@ -8,31 +8,31 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 1.5rem 3.5rem;
-  background-color: #CCC9DC;
-  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  background-color: #ffd60a;
+  box-shadow: 0.5px 0.5px 8px 0.5px #ffd60a;
 }
 nav h1 {
   color: white;
   text-shadow: 2px 4px 4px 0.5px rgba(46, 91, 173, 0.6);
 }
 
-nav a {
+/* nav a {
   color: #fff;
   font-weight: var(--bolder-font);
   transition: var(--transition);
-}
+} */
 nav a:hover {
-  color: #CCC9DC;
-  border: 1px dotted #CCC9DC ;
+  color: #ffd60a;
+  border: 1px dotted #ffd60a;
   border-radius: 1rem;
   padding: 5px;
   margin-bottom: 0.5rem;
-  background-color:#CCC9DC;
+  background-color: black;
 }
 
 nav ul {
   display: flex;
-  gap: 1rem;
+  gap: 10px;
   border-radius: 0.5rem;
   padding: 10px;
   align-items: center;
@@ -50,7 +50,7 @@ nav ul li {
   color: black;
   font-size: 2rem;
   border: 0;
-  background-color: transparent;
+  background-color: #ffd60a;
   cursor: pointer;
   display: none;
 }
